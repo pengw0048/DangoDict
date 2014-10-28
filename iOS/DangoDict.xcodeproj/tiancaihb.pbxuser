@@ -1,0 +1,415 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* DangoDict_J2MEtoIOSAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 347}}";
+			sepNavSelRange = "{213, 0}";
+			sepNavVisRange = "{0, 446}";
+			sepNavWindowFrame = "{{15, 98}, {750, 480}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* DangoDict_J2MEtoIOSAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1118}}";
+			sepNavSelRange = "{857, 0}";
+			sepNavVisRange = "{576, 376}";
+			sepNavWindowFrame = "{{15, 98}, {750, 480}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* DangoDict */ = {
+		activeExec = 0;
+		executables = (
+			8FCADA1B1395133A00927239 /* DangoDict */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 8FCADA1B1395133A00927239 /* DangoDict */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* DangoDict */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* DangoDict */,
+		);
+		breakpoints = (
+			8F6B37B71395631300215BFF /* DictControl.m:228 */,
+			8F6A157515913012001C9C73 /* DictControl.m:301 */,
+			8F6B159D1592199E00F25866 /* DictControl.m:156 */,
+			8F6B15A5159219F500F25866 /* DictControl.m:381 */,
+			8F6CBFF41592431400098031 /* DictControl.m:196 */,
+			8F6C0E4215925C06001A87A6 /* DictControl.m:138 */,
+		);
+		codeSenseManager = 8FCADA281395136000927239 /* Code sense */;
+		executables = (
+			8FCADA1B1395133A00927239 /* DangoDict */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					397,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					509,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					469,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 361918931;
+			PBXWorkspaceStateSaveDate = 361918931;
+		};
+		perUserProjectItems = {
+			8F6A654C13954564000FFE81 /* PBXTextBookmark */ = 8F6A654C13954564000FFE81 /* PBXTextBookmark */;
+			8F6B1552159209D900F25866 /* PBXTextBookmark */ = 8F6B1552159209D900F25866 /* PBXTextBookmark */;
+			8F6B17871592732900B14728 /* PBXTextBookmark */ = 8F6B17871592732900B14728 /* PBXTextBookmark */;
+			8F6B17881592732900B14728 /* PBXTextBookmark */ = 8F6B17881592732900B14728 /* PBXTextBookmark */;
+			8F6B17891592732900B14728 /* PBXTextBookmark */ = 8F6B17891592732900B14728 /* PBXTextBookmark */;
+			8F6C2A171591DC6F00D15AB0 /* PBXTextBookmark */ = 8F6C2A171591DC6F00D15AB0 /* PBXTextBookmark */;
+			8F6C2A191591DC6F00D15AB0 /* PBXTextBookmark */ = 8F6C2A191591DC6F00D15AB0 /* PBXTextBookmark */;
+			8F6D7BBD157A7DE500FC29A4 /* PBXBookmark */ = 8F6D7BBD157A7DE500FC29A4 /* PBXBookmark */;
+			8F6D7BD0157A7F5500FC29A4 /* PBXTextBookmark */ = 8F6D7BD0157A7F5500FC29A4 /* PBXTextBookmark */;
+			8F774D04159103C600120D9B /* PBXTextBookmark */ = 8F774D04159103C600120D9B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8FCADA271395136000927239 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8F6A157515913012001C9C73 /* DictControl.m:301 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8F70F6481395252900B2F19F /* DictControl.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 301;
+		location = DangoDict;
+		modificationTime = 361913317.515592;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	8F6A654C13954564000FFE81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F6A654D13954564000FFE81 /* DangoDictMidlet.java */;
+		name = "DangoDictMidlet.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 959;
+		vrLoc = 0;
+	};
+	8F6A654D13954564000FFE81 /* DangoDictMidlet.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = DangoDictMidlet.java;
+		path = "/Volumes/Untitled/Documents and Settings/Administrator/My Documents/NetBeansProjects/DangoDict/src/DangoDictMidlet.java";
+		sourceTree = "<absolute>";
+	};
+	8F6B1552159209D900F25866 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F6E2E8D159206F80000E593 /* LingoesLd2Reader.java */;
+		name = "LingoesLd2Reader.java: 232";
+		rLen = 0;
+		rLoc = 10356;
+		rType = 0;
+		vrLen = 1420;
+		vrLoc = 9158;
+	};
+	8F6B159D1592199E00F25866 /* DictControl.m:156 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8F70F6481395252900B2F19F /* DictControl.m */;
+		functionName = "-tchange:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 156;
+		location = DangoDict;
+		modificationTime = 361913317.516432;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	8F6B15A5159219F500F25866 /* DictControl.m:381 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8F70F6481395252900B2F19F /* DictControl.m */;
+		functionName = "-tableView:numberOfRowsInSection:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 381;
+		location = DangoDict;
+		modificationTime = 361913317.517224;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	8F6B17871592732900B14728 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F70F6471395252900B2F19F /* DictControl.h */;
+		name = "DictControl.h: 18";
+		rLen = 0;
+		rLoc = 451;
+		rType = 0;
+		vrLen = 1151;
+		vrLoc = 0;
+	};
+	8F6B17881592732900B14728 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F70F6481395252900B2F19F /* DictControl.m */;
+		name = "DictControl.m: 138";
+		rLen = 0;
+		rLoc = 2793;
+		rType = 0;
+		vrLen = 714;
+		vrLoc = 2541;
+	};
+	8F6B17891592732900B14728 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F70F6481395252900B2F19F /* DictControl.m */;
+		name = "DictControl.m: 122";
+		rLen = 0;
+		rLoc = 2467;
+		rType = 0;
+		vrLen = 792;
+		vrLoc = 2154;
+	};
+	8F6B37B71395631300215BFF /* DictControl.m:228 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8F70F6481395252900B2F19F /* DictControl.m */;
+		functionName = "-search:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 228;
+		location = "DangoDict J2MEtoIOS";
+		modificationTime = 361913317.51444;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	8F6C0E4215925C06001A87A6 /* DictControl.m:138 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8F70F6481395252900B2F19F /* DictControl.m */;
+		functionName = "-tchange:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 138;
+		location = DangoDict;
+		modificationTime = 361913357.9370521;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8F6C2A171591DC6F00D15AB0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F6C2A181591DC6F00D15AB0 /* XVE7sCore.c */;
+		name = "XVE7sCore.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1046;
+		vrLoc = 0;
+	};
+	8F6C2A181591DC6F00D15AB0 /* XVE7sCore.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = XVE7sCore.c;
+		path = "/Volumes/Untitled 1/VB/xve7sbeta/XVE7sCore.c";
+		sourceTree = "<absolute>";
+	};
+	8F6C2A191591DC6F00D15AB0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F6C2A1A1591DC6F00D15AB0 /* DictControl.m */;
+		name = "DictControl.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1035;
+		vrLoc = 2579;
+	};
+	8F6C2A1A1591DC6F00D15AB0 /* DictControl.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = DictControl.m;
+		path = "/Users/tiancaihb/Documents/复件 DangoDict J2MEtoIOS/Classes/DictControl.m";
+		sourceTree = "<absolute>";
+	};
+	8F6CBFF41592431400098031 /* DictControl.m:196 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8F70F6481395252900B2F19F /* DictControl.m */;
+		functionName = "-search:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 196;
+		location = DangoDict;
+		modificationTime = 361913317.518044;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8F6D7BBD157A7DE500FC29A4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8F6D792D157A72DD00FC29A4 /* icon.png */;
+	};
+	8F6D7BD0157A7F5500FC29A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* DangoDict_J2MEtoIOSAppDelegate.h */;
+		name = "DangoDict_J2MEtoIOSAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 213;
+		rType = 0;
+		vrLen = 446;
+		vrLoc = 0;
+	};
+	8F6E2E8D159206F80000E593 /* LingoesLd2Reader.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = LingoesLd2Reader.java;
+		path = /Volumes/Untitled/dict2/LingoesLd2Reader.java;
+		sourceTree = "<absolute>";
+	};
+	8F70F6471395252900B2F19F /* DictControl.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {687, 481}}";
+			sepNavSelRange = "{451, 0}";
+			sepNavVisRange = "{0, 1151}";
+			sepNavWindowFrame = "{{15, 98}, {750, 480}}";
+		};
+	};
+	8F70F6481395252900B2F19F /* DictControl.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1188, 5499}}";
+			sepNavSelRange = "{2467, 0}";
+			sepNavVisRange = "{2154, 792}";
+			sepNavWindowFrame = "{{15, 98}, {750, 480}}";
+		};
+	};
+	8F774D04159103C600120D9B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DangoDict_J2MEtoIOSAppDelegate.m */;
+		name = "DangoDict_J2MEtoIOSAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 575;
+		rType = 0;
+		vrLen = 952;
+		vrLoc = 0;
+	};
+	8FCADA1B1395133A00927239 /* DangoDict */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DangoDict;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	8FCADA271395136000927239 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8FCADA281395136000927239 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
